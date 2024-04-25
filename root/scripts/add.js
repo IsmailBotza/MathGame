@@ -4,13 +4,15 @@ const option3 = document.getElementById("option3");
 const audio =document.getElementById("MyAudio");
 var answer = 0;
 
+
+//OTMAN KAN HNA 
 function generate_equation(){
   var num1  = Math.floor(Math,random() * 13);
   var num2 = Math.floor(Math,random() * 13);
   var dumyAnswer1 = Math.floor(Math,random() * 13);
   var dumyAnswer2 = Math.floor(Math,random() * 13);
-  var allAnswers =
-  var switchAnswers =    
+  var allAnswers = [];
+  var switchAnswers = [];  
   
  }
 
